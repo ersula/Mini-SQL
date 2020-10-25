@@ -1,0 +1,15 @@
+﻿  API.cpp
+c:\users\sgy\desktop\11.0\project1\h\global.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sgy\desktop\11.0\project1\h\global.h(212): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sgy\desktop\11.0\project1\h\indexmanage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sgy\desktop\11.0\project1\api.cpp(201): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sgy\desktop\11.0\project1\api.cpp(297): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sgy\desktop\11.0\project1\api.cpp(324): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sgy\desktop\11.0\project1\api.cpp(421): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sgy\desktop\11.0\project1\h\global.h(50): warning C4715: “element::operator<”: 不是所有的控件路径都返回值
+c:\users\sgy\desktop\11.0\project1\h\global.h(66): warning C4715: “element::operator==”: 不是所有的控件路径都返回值
+c:\users\sgy\desktop\11.0\project1\h\global.h(82): warning C4715: “element::operator>”: 不是所有的控件路径都返回值
+c:\users\sgy\desktop\11.0\project1\h\global.h(98): warning C4715: “element::operator>=”: 不是所有的控件路径都返回值
+c:\users\sgy\desktop\11.0\project1\h\global.h(114): warning C4715: “element::operator<=”: 不是所有的控件路径都返回值
+c:\users\sgy\desktop\11.0\project1\h\global.h(130): warning C4715: “element::operator!=”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\sgy\Desktop\11.0\x64\Debug\minisql.exe

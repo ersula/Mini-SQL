@@ -1,0 +1,40 @@
+create table student2(
+	id int,
+	name char(12) unique,
+	score float,
+	primary key(id) 
+);
+
+
+insert into student2 values(1080107050,'name7050',50.5);
+insert into student2 values(1080107051,'name7051',91);
+insert into student2 values(1080107052,'name7052',92.5);
+insert into student2 values(1080107053,'name7053',76);
+insert into student2 values(1080107054,'name7054',68.5);
+insert into student2 values(1080107055,'name7055',68.5);
+insert into student2 values(1080107056,'name7056',93);
+insert into student2 values(1080107057,'name7057',57.5);
+insert into student2 values(1080107000,'name7000',69);
+insert into student2 values(1080107001,'name7001',91.5);
+insert into student2 values(1080107002,'name7002',56);
+insert into student2 values(1080107003,'name7003',80);
+insert into student2 values(1080107004,'name7004',71.5);
+insert into student2 values(1080107005,'name7005',81.5);
+insert into student2 values(1080107006,'name7006',83.5);
+insert into student2 values(1080107007,'name7007',99.5);
+insert into student2 values(1080107008,'name7008',71);
+insert into student2 values(1080107009,'name7009',55.5);
+insert into student2 values(1080107010,'name7010',89);
+insert into student2 values(1080107011,'name7011',82.5);
+insert into student2 values(1080107012,'name7012',95);
+insert into student2 values(1080107013,'name7013',97.5);
+insert into student2 values(1080107064,'name7064',58.5);
+insert into student2 values(1080107065,'name7065',51.5);
+insert into student2 values(1080107066,'name7066',84.5);
+insert into student2 values(1080107067,'name7067',60);
+insert into student2 values(1080107068,'name7068',80.5);
+insert into student2 values(1080107069,'name7069',66.5);
+insert into student2 values(1080107070,'name7070',73.5);
+insert into student2 values(1080107071,'name7071',85.5);
+create index idindex on student2(id);
+
